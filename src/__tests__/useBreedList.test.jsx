@@ -37,10 +37,11 @@ test("gives back breeds with an animal", async () => {
       "Labrador",
       "Husky",
     ];
-    fetch.mockResponseOnce({
+    fetch.mockResponseOnce(JSON.stringify({
         animal: "dog",
         breeds
     })
+    )
     const { result } = renderHook(() => useBreedList("dog"), {
         wrapper: ({ children }) => (
            <QueryClientProvider client={queryClient}>
