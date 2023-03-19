@@ -10,7 +10,7 @@ Welcome to my website! This site was created as part of the Intermediate React, 
 To view my website, clone this repository to your local machine by running the following command:
 
 ```
-git clone [insert link to your GitHub repository here]
+git clone Maimoona-Qasmi-3/Intermediate-React-adapt_me
 ```
 ## Features
 My website includes the following features:
@@ -22,18 +22,18 @@ My website includes the following features:
 
 
 
--Interactive elements
+- Interactive elements
 
 ![image](https://user-images.githubusercontent.com/96918798/226164884-17bb65b7-8b9b-4a6b-b17f-feb2a178dd95.png)
 
 ![image](https://user-images.githubusercontent.com/96918798/226164532-e0fa38ff-35e7-41f6-b7ca-6dda49d2f9c7.png)
 
 ## Technologies Used 
--Programming languages: Javascript, HTML 
--Frameworks: Tailwind CSS, Node.js
--Libraries: React
--Tools: Git, VS Code
--Testing: (most enjoyable part of course, atleast for me)
+- Programming languages: Javascript, HTML 
+- Frameworks: Tailwind CSS, Node.js
+- Libraries: React
+- Tools: Git, VS Code
+- Testing: (most enjoyable part of course, atleast for me)
 
 ![image](https://user-images.githubusercontent.com/96918798/226164952-ca6d9f55-0282-45f9-8b31-61de5dc76f5c.png)
 
